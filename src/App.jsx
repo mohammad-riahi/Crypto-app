@@ -1,5 +1,5 @@
 import Homepage from "./components/Tempelates/HomePage";
-import Layout from "./layouts/layout";
+import Layout from "./layouts/Layout";
 
 function App() {
   return (
