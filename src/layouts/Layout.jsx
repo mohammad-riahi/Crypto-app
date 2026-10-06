@@ -3,7 +3,7 @@ import styles from "./layouts.module.css";
 function Layout({ children }) {
   return (
     <div>
-      <header>
+      <header className={styles.head}>
         <h1>Crypto App</h1>
         <p>Mohammad Riahi | React.js</p>
       </header>
